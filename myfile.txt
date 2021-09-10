@@ -2,3 +2,4 @@ myfile edited line one
 myfile edited line two
 edited myfile.txt
 edited myfile line one.txt
+edited myfile line two.txt
